@@ -9,7 +9,7 @@ This is a little project after learning html, css & little bit of Javascript. Th
  https://daman24-hub.github.io/Rayben-Landing-page/
 
 ## VIDEO DEMO
-<video src="demosite.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/12596517-0f1e-43e3-9673-07d6c4949e33
 
 
 
