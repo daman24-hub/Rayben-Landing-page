@@ -8,7 +8,7 @@ This is a little project after learning html, css & little bit of Javascript. Th
 ## Demo 
  https://daman24-hub.github.io/Rayben-Landing-page/
 
-##VIDEO DEMO
+## VIDEO DEMO
 <video controls src="demosite.mp4" title="Title"></video>
 
 
