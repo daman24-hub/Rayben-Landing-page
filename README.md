@@ -6,12 +6,25 @@ This is a little project after learning html, css & little bit of Javascript. Th
 
 
 ## Demo 
+ https://daman24-hub.github.io/Rayben-Landing-page/
+
+##VIDEO DEMO
+
+
 
 ## Prerequisites
 
 - HTML
 - CSS
 - Javascript
+
+##  How to Run
+1.⁠ ⁠Clone the repository
+2.⁠ ⁠Open ⁠ index.html ⁠ in any modern browser
+
+##  Author
+Sneha Tiwari  
+GitHub: https://github.com/daman24-hub
 
 ## Resource
 
